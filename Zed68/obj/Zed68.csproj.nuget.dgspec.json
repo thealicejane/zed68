@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\there\\source\\repos\\thealicejane\\zed68\\Zed68\\Zed68.csproj": {}
+    "C:\\Users\\there\\OneDrive\\Documents\\GitHub\\zed68\\Zed68\\Zed68.csproj": {}
   },
   "projects": {
-    "C:\\Users\\there\\source\\repos\\thealicejane\\zed68\\Zed68\\Zed68.csproj": {
+    "C:\\Users\\there\\OneDrive\\Documents\\GitHub\\zed68\\Zed68\\Zed68.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\there\\source\\repos\\thealicejane\\zed68\\Zed68\\Zed68.csproj",
+        "projectUniqueName": "C:\\Users\\there\\OneDrive\\Documents\\GitHub\\zed68\\Zed68\\Zed68.csproj",
         "projectName": "Zed68",
-        "projectPath": "C:\\Users\\there\\source\\repos\\thealicejane\\zed68\\Zed68\\Zed68.csproj",
+        "projectPath": "C:\\Users\\there\\OneDrive\\Documents\\GitHub\\zed68\\Zed68\\Zed68.csproj",
         "packagesPath": "C:\\Users\\there\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\there\\source\\repos\\thealicejane\\zed68\\Zed68\\obj\\",
+        "outputPath": "C:\\Users\\there\\OneDrive\\Documents\\GitHub\\zed68\\Zed68\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

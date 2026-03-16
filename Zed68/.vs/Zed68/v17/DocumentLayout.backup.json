@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\there\\source\\repos\\thealicejane\\zed68\\Zed68\\",
+  "WorkspaceRootPath": "C:\\Users\\there\\OneDrive\\Documents\\GitHub\\zed68\\Zed68\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCBA1F95-3486-40FC-A187-CB2A4A1CF220}|Zed68.csproj|c:\\users\\there\\source\\repos\\thealicejane\\zed68\\zed68\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BCBA1F95-3486-40FC-A187-CB2A4A1CF220}|Zed68.csproj|c:\\users\\there\\onedrive\\documents\\github\\zed68\\zed68\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCBA1F95-3486-40FC-A187-CB2A4A1CF220}|Zed68.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCBA1F95-3486-40FC-A187-CB2A4A1CF220}|Zed68.csproj|c:\\users\\there\\source\\repos\\thealicejane\\zed68\\zed68\\instructions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BCBA1F95-3486-40FC-A187-CB2A4A1CF220}|Zed68.csproj|c:\\users\\there\\onedrive\\documents\\github\\zed68\\zed68\\instructions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCBA1F95-3486-40FC-A187-CB2A4A1CF220}|Zed68.csproj|solutionrelative:instructions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Instructions.cs",
-              "DocumentMoniker": "C:\\Users\\there\\source\\repos\\thealicejane\\zed68\\Zed68\\Instructions.cs",
+              "DocumentMoniker": "C:\\Users\\there\\OneDrive\\Documents\\GitHub\\zed68\\Zed68\\Instructions.cs",
               "RelativeDocumentMoniker": "Instructions.cs",
-              "ToolTip": "C:\\Users\\there\\source\\repos\\thealicejane\\zed68\\Zed68\\Instructions.cs",
+              "ToolTip": "C:\\Users\\there\\OneDrive\\Documents\\GitHub\\zed68\\Zed68\\Instructions.cs",
               "RelativeToolTip": "Instructions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\there\\source\\repos\\thealicejane\\zed68\\Zed68\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\there\\OneDrive\\Documents\\GitHub\\zed68\\Zed68\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\there\\source\\repos\\thealicejane\\zed68\\Zed68\\Program.cs",
+              "ToolTip": "C:\\Users\\there\\OneDrive\\Documents\\GitHub\\zed68\\Zed68\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUFAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
