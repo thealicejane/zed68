@@ -1,0 +1,14 @@
+C:\Users\there\source\repos\thealicejane\zed68\Zed68\bin\Debug\net8.0\Zed68.exe
+C:\Users\there\source\repos\thealicejane\zed68\Zed68\bin\Debug\net8.0\Zed68.deps.json
+C:\Users\there\source\repos\thealicejane\zed68\Zed68\bin\Debug\net8.0\Zed68.runtimeconfig.json
+C:\Users\there\source\repos\thealicejane\zed68\Zed68\bin\Debug\net8.0\Zed68.dll
+C:\Users\there\source\repos\thealicejane\zed68\Zed68\bin\Debug\net8.0\Zed68.pdb
+C:\Users\there\source\repos\thealicejane\zed68\Zed68\obj\Debug\net8.0\Zed68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\there\source\repos\thealicejane\zed68\Zed68\obj\Debug\net8.0\Zed68.AssemblyInfoInputs.cache
+C:\Users\there\source\repos\thealicejane\zed68\Zed68\obj\Debug\net8.0\Zed68.AssemblyInfo.cs
+C:\Users\there\source\repos\thealicejane\zed68\Zed68\obj\Debug\net8.0\Zed68.csproj.CoreCompileInputs.cache
+C:\Users\there\source\repos\thealicejane\zed68\Zed68\obj\Debug\net8.0\Zed68.dll
+C:\Users\there\source\repos\thealicejane\zed68\Zed68\obj\Debug\net8.0\refint\Zed68.dll
+C:\Users\there\source\repos\thealicejane\zed68\Zed68\obj\Debug\net8.0\Zed68.pdb
+C:\Users\there\source\repos\thealicejane\zed68\Zed68\obj\Debug\net8.0\Zed68.genruntimeconfig.cache
+C:\Users\there\source\repos\thealicejane\zed68\Zed68\obj\Debug\net8.0\ref\Zed68.dll
